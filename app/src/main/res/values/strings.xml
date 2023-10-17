@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LGTQ+</string>
+    <string name="lesbian">Lesbian</string>
+    <string name="gay">Gay</string>
+    <string name="bisexual">Bisexual</string>
+    <string name="transgender">Transgender</string>
+    <string name="queer">Queer</string>
+    <string name="lgbtq">LGBTQ+</string>
+    <string name="Additional">+</string>
+    <string name="go">Go</string>
+</resources>
