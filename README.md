@@ -1,2 +1,2 @@
-# LGBTQ-
+# LGBTQ+
 First Kotlin android project
