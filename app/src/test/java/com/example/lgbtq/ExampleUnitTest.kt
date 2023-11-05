@@ -1,4 +1,4 @@
-package com.example.lgtq
+package com.example.lgbtq
 
 import org.junit.Test
 

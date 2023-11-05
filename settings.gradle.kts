@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LGTQ+"
+rootProject.name = "LGBTQ+"
 include(":app")

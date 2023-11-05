@@ -1,4 +1,4 @@
-package com.example.lgtq
+package com.example.lgbtq
 
 import android.annotation.SuppressLint
 import android.graphics.Color
